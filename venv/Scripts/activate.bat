@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Projects\Python_Web_ML\Python_Excercise\machine_learning_assesment\hridoy_ml_heart_disease_predictor\venv
+set VIRTUAL_ENV=D:\Projects\Python_Web_ML\pulse_ml_heart_disease_predictor\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

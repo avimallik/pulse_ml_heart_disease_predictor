@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Projects\Python_Web_ML\Python_Excercise\machine_learning_assesment\hridoy_ml_heart_disease_predictor\venv"
+VIRTUAL_ENV="D:\Projects\Python_Web_ML\pulse_ml_heart_disease_predictor\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
