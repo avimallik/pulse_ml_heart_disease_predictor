@@ -1,0 +1,7 @@
+class TrainAndTest:
+    def vars(self):
+        self.message = 'function call'
+
+obj = TrainAndTest()
+obj.vars()
+obj.message
